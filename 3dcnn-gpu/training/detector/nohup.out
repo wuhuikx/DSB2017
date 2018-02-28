@@ -1,0 +1,572 @@
+Process Process-30:
+Process Process-2:
+Process Process-8:
+Traceback (most recent call last):
+Process Process-12:
+Process Process-9:
+Process Process-25:
+Process Process-15:
+Process Process-4:
+Process Process-28:
+  File "/home/wuhui/anaconda2/lib/python2.7/multiprocessing/process.py", line 258, in _bootstrap
+Process Process-24:
+Process Process-20:
+Process Process-14:
+Process Process-21:
+Process Process-3:
+Process Process-18:
+Process Process-26:
+Process Process-22:
+Process Process-29:
+Process Process-6:
+Process Process-5:
+Process Process-31:
+Traceback (most recent call last):
+Traceback (most recent call last):
+Traceback (most recent call last):
+Process Process-1:
+Traceback (most recent call last):
+  File "/home/wuhui/anaconda2/lib/python2.7/multiprocessing/process.py", line 258, in _bootstrap
+Traceback (most recent call last):
+Traceback (most recent call last):
+  File "/home/wuhui/anaconda2/lib/python2.7/multiprocessing/process.py", line 258, in _bootstrap
+  File "/home/wuhui/anaconda2/lib/python2.7/multiprocessing/process.py", line 258, in _bootstrap
+  File "/home/wuhui/anaconda2/lib/python2.7/multiprocessing/process.py", line 258, in _bootstrap
+Traceback (most recent call last):
+Traceback (most recent call last):
+    self.run()
+  File "/home/wuhui/anaconda2/lib/python2.7/multiprocessing/process.py", line 114, in run
+  File "/home/wuhui/anaconda2/lib/python2.7/multiprocessing/process.py", line 258, in _bootstrap
+Traceback (most recent call last):
+Traceback (most recent call last):
+Traceback (most recent call last):
+Traceback (most recent call last):
+Traceback (most recent call last):
+    self._target(*self._args, **self._kwargs)
+Traceback (most recent call last):
+  File "/home/wuhui/anaconda2/lib/python2.7/multiprocessing/process.py", line 258, in _bootstrap
+  File "/home/wuhui/anaconda2/lib/python2.7/site-packages/torch/utils/data/dataloader.py", line 44, in _worker_loop
+  File "/home/wuhui/anaconda2/lib/python2.7/multiprocessing/process.py", line 258, in _bootstrap
+Traceback (most recent call last):
+Traceback (most recent call last):
+  File "/home/wuhui/anaconda2/lib/python2.7/multiprocessing/process.py", line 258, in _bootstrap
+  File "/home/wuhui/anaconda2/lib/python2.7/multiprocessing/process.py", line 258, in _bootstrap
+Traceback (most recent call last):
+  File "/home/wuhui/anaconda2/lib/python2.7/multiprocessing/process.py", line 258, in _bootstrap
+  File "/home/wuhui/anaconda2/lib/python2.7/multiprocessing/process.py", line 258, in _bootstrap
+  File "/home/wuhui/anaconda2/lib/python2.7/multiprocessing/process.py", line 258, in _bootstrap
+  File "/home/wuhui/anaconda2/lib/python2.7/multiprocessing/process.py", line 258, in _bootstrap
+  File "/home/wuhui/anaconda2/lib/python2.7/multiprocessing/process.py", line 258, in _bootstrap
+  File "/home/wuhui/anaconda2/lib/python2.7/multiprocessing/process.py", line 258, in _bootstrap
+  File "/home/wuhui/anaconda2/lib/python2.7/multiprocessing/process.py", line 258, in _bootstrap
+Traceback (most recent call last):
+  File "/home/wuhui/anaconda2/lib/python2.7/multiprocessing/process.py", line 258, in _bootstrap
+Traceback (most recent call last):
+Traceback (most recent call last):
+Traceback (most recent call last):
+  File "/home/wuhui/anaconda2/lib/python2.7/multiprocessing/process.py", line 258, in _bootstrap
+    self.run()
+  File "/home/wuhui/anaconda2/lib/python2.7/multiprocessing/process.py", line 114, in run
+    self._target(*self._args, **self._kwargs)
+  File "/home/wuhui/anaconda2/lib/python2.7/site-packages/torch/utils/data/dataloader.py", line 44, in _worker_loop
+    self.run()
+  File "/home/wuhui/anaconda2/lib/python2.7/multiprocessing/process.py", line 114, in run
+  File "/home/wuhui/anaconda2/lib/python2.7/multiprocessing/process.py", line 258, in _bootstrap
+    self._target(*self._args, **self._kwargs)
+  File "/home/wuhui/anaconda2/lib/python2.7/site-packages/torch/utils/data/dataloader.py", line 44, in _worker_loop
+    self.run()
+    self.run()
+    self.run()
+    self.run()
+    self.run()
+  File "/home/wuhui/anaconda2/lib/python2.7/multiprocessing/process.py", line 114, in run
+    self.run()
+  File "/home/wuhui/anaconda2/lib/python2.7/multiprocessing/process.py", line 114, in run
+  File "/home/wuhui/anaconda2/lib/python2.7/multiprocessing/process.py", line 114, in run
+  File "/home/wuhui/anaconda2/lib/python2.7/multiprocessing/process.py", line 114, in run
+  File "/home/wuhui/anaconda2/lib/python2.7/multiprocessing/process.py", line 114, in run
+    self._target(*self._args, **self._kwargs)
+  File "/home/wuhui/anaconda2/lib/python2.7/multiprocessing/process.py", line 114, in run
+    self._target(*self._args, **self._kwargs)
+    self._target(*self._args, **self._kwargs)
+  File "/home/wuhui/anaconda2/lib/python2.7/site-packages/torch/utils/data/dataloader.py", line 44, in _worker_loop
+    self._target(*self._args, **self._kwargs)
+    self._target(*self._args, **self._kwargs)
+  File "/home/wuhui/anaconda2/lib/python2.7/site-packages/torch/utils/data/dataloader.py", line 44, in _worker_loop
+  File "/home/wuhui/anaconda2/lib/python2.7/site-packages/torch/utils/data/dataloader.py", line 44, in _worker_loop
+    self._target(*self._args, **self._kwargs)
+    self.run()
+    self.run()
+  File "/home/wuhui/anaconda2/lib/python2.7/site-packages/torch/utils/data/dataloader.py", line 44, in _worker_loop
+  File "/home/wuhui/anaconda2/lib/python2.7/site-packages/torch/utils/data/dataloader.py", line 44, in _worker_loop
+  File "/home/wuhui/anaconda2/lib/python2.7/site-packages/torch/utils/data/dataloader.py", line 44, in _worker_loop
+  File "/home/wuhui/anaconda2/lib/python2.7/multiprocessing/process.py", line 114, in run
+    self.run()
+    self.run()
+    self._target(*self._args, **self._kwargs)
+  File "/home/wuhui/anaconda2/lib/python2.7/multiprocessing/process.py", line 114, in run
+  File "/home/wuhui/anaconda2/lib/python2.7/multiprocessing/process.py", line 114, in run
+  File "/home/wuhui/anaconda2/lib/python2.7/site-packages/torch/utils/data/dataloader.py", line 44, in _worker_loop
+  File "/home/wuhui/anaconda2/lib/python2.7/multiprocessing/process.py", line 114, in run
+    self._target(*self._args, **self._kwargs)
+    self._target(*self._args, **self._kwargs)
+    self._target(*self._args, **self._kwargs)
+    self.run()
+  File "/home/wuhui/anaconda2/lib/python2.7/site-packages/torch/utils/data/dataloader.py", line 44, in _worker_loop
+  File "/home/wuhui/anaconda2/lib/python2.7/site-packages/torch/utils/data/dataloader.py", line 44, in _worker_loop
+    self.run()
+    self.run()
+  File "/home/wuhui/anaconda2/lib/python2.7/multiprocessing/process.py", line 114, in run
+    self._target(*self._args, **self._kwargs)
+  File "/home/wuhui/anaconda2/lib/python2.7/site-packages/torch/utils/data/dataloader.py", line 44, in _worker_loop
+  File "/home/wuhui/anaconda2/lib/python2.7/multiprocessing/process.py", line 114, in run
+    self.run()
+  File "/home/wuhui/anaconda2/lib/python2.7/site-packages/torch/utils/data/dataloader.py", line 44, in _worker_loop
+  File "/home/wuhui/anaconda2/lib/python2.7/multiprocessing/process.py", line 114, in run
+    self._target(*self._args, **self._kwargs)
+  File "/home/wuhui/anaconda2/lib/python2.7/multiprocessing/process.py", line 114, in run
+  File "/home/wuhui/anaconda2/lib/python2.7/site-packages/torch/utils/data/dataloader.py", line 44, in _worker_loop
+    self.run()
+  File "/home/wuhui/anaconda2/lib/python2.7/multiprocessing/process.py", line 114, in run
+    self._target(*self._args, **self._kwargs)
+  File "/home/wuhui/anaconda2/lib/python2.7/site-packages/torch/utils/data/dataloader.py", line 44, in _worker_loop
+  File "/home/wuhui/anaconda2/lib/python2.7/multiprocessing/process.py", line 258, in _bootstrap
+    self._target(*self._args, **self._kwargs)
+    self._target(*self._args, **self._kwargs)
+  File "/home/wuhui/anaconda2/lib/python2.7/site-packages/torch/utils/data/dataloader.py", line 44, in _worker_loop
+  File "/home/wuhui/anaconda2/lib/python2.7/site-packages/torch/utils/data/dataloader.py", line 44, in _worker_loop
+    self.run()
+  File "/home/wuhui/anaconda2/lib/python2.7/multiprocessing/process.py", line 114, in run
+    self._target(*self._args, **self._kwargs)
+    self.run()
+  File "/home/wuhui/anaconda2/lib/python2.7/site-packages/torch/utils/data/dataloader.py", line 44, in _worker_loop
+  File "/home/wuhui/anaconda2/lib/python2.7/multiprocessing/process.py", line 114, in run
+    self._target(*self._args, **self._kwargs)
+  File "/home/wuhui/anaconda2/lib/python2.7/site-packages/torch/utils/data/dataloader.py", line 44, in _worker_loop
+  File "/home/wuhui/anaconda2/lib/python2.7/multiprocessing/process.py", line 258, in _bootstrap
+    self.run()
+  File "/home/wuhui/anaconda2/lib/python2.7/multiprocessing/process.py", line 114, in run
+    self._target(*self._args, **self._kwargs)
+  File "/home/wuhui/anaconda2/lib/python2.7/site-packages/torch/utils/data/dataloader.py", line 44, in _worker_loop
+    self.run()
+  File "/home/wuhui/anaconda2/lib/python2.7/multiprocessing/process.py", line 114, in run
+    self._target(*self._args, **self._kwargs)
+  File "/home/wuhui/anaconda2/lib/python2.7/site-packages/torch/utils/data/dataloader.py", line 44, in _worker_loop
+    data_queue.put((idx, samples))
+    data_queue.put((idx, samples))
+    data_queue.put((idx, samples))
+    data_queue.put((idx, samples))
+  File "/home/wuhui/anaconda2/lib/python2.7/multiprocessing/queues.py", line 390, in put
+  File "/home/wuhui/anaconda2/lib/python2.7/multiprocessing/queues.py", line 390, in put
+  File "/home/wuhui/anaconda2/lib/python2.7/multiprocessing/queues.py", line 390, in put
+  File "/home/wuhui/anaconda2/lib/python2.7/multiprocessing/queues.py", line 390, in put
+    data_queue.put((idx, samples))
+    data_queue.put((idx, samples))
+  File "/home/wuhui/anaconda2/lib/python2.7/multiprocessing/queues.py", line 390, in put
+  File "/home/wuhui/anaconda2/lib/python2.7/multiprocessing/queues.py", line 390, in put
+    data_queue.put((idx, samples))
+  File "/home/wuhui/anaconda2/lib/python2.7/multiprocessing/queues.py", line 390, in put
+    data_queue.put((idx, samples))
+    data_queue.put((idx, samples))
+  File "/home/wuhui/anaconda2/lib/python2.7/multiprocessing/queues.py", line 390, in put
+    data_queue.put((idx, samples))
+  File "/home/wuhui/anaconda2/lib/python2.7/multiprocessing/queues.py", line 390, in put
+  File "/home/wuhui/anaconda2/lib/python2.7/multiprocessing/queues.py", line 390, in put
+    data_queue.put((idx, samples))
+  File "/home/wuhui/anaconda2/lib/python2.7/multiprocessing/queues.py", line 390, in put
+    data_queue.put((idx, samples))
+    data_queue.put((idx, samples))
+    data_queue.put((idx, samples))
+    data_queue.put((idx, samples))
+    data_queue.put((idx, samples))
+    data_queue.put((idx, samples))
+  File "/home/wuhui/anaconda2/lib/python2.7/multiprocessing/queues.py", line 390, in put
+    data_queue.put((idx, samples))
+    data_queue.put((idx, samples))
+    data_queue.put((idx, samples))
+  File "/home/wuhui/anaconda2/lib/python2.7/multiprocessing/queues.py", line 390, in put
+  File "/home/wuhui/anaconda2/lib/python2.7/multiprocessing/queues.py", line 390, in put
+  File "/home/wuhui/anaconda2/lib/python2.7/multiprocessing/queues.py", line 390, in put
+    data_queue.put((idx, samples))
+  File "/home/wuhui/anaconda2/lib/python2.7/multiprocessing/queues.py", line 390, in put
+  File "/home/wuhui/anaconda2/lib/python2.7/multiprocessing/queues.py", line 390, in put
+  File "/home/wuhui/anaconda2/lib/python2.7/multiprocessing/queues.py", line 390, in put
+  File "/home/wuhui/anaconda2/lib/python2.7/multiprocessing/queues.py", line 390, in put
+  File "/home/wuhui/anaconda2/lib/python2.7/multiprocessing/queues.py", line 390, in put
+  File "/home/wuhui/anaconda2/lib/python2.7/multiprocessing/queues.py", line 390, in put
+    data_queue.put((idx, samples))
+  File "/home/wuhui/anaconda2/lib/python2.7/multiprocessing/queues.py", line 390, in put
+    wacquire()
+    wacquire()
+    wacquire()
+KeyboardInterrupt
+    wacquire()
+    wacquire()
+KeyboardInterrupt
+KeyboardInterrupt
+KeyboardInterrupt
+KeyboardInterrupt
+    wacquire()
+    wacquire()
+KeyboardInterrupt
+    wacquire()
+KeyboardInterrupt
+    wacquire()
+    wacquire()
+KeyboardInterrupt
+KeyboardInterrupt
+    wacquire()
+KeyboardInterrupt
+    wacquire()
+KeyboardInterrupt
+    wacquire()
+    wacquire()
+    wacquire()
+    wacquire()
+    wacquire()
+KeyboardInterrupt
+    wacquire()
+    wacquire()
+    wacquire()
+    wacquire()
+KeyboardInterrupt
+KeyboardInterrupt
+    wacquire()
+KeyboardInterrupt
+KeyboardInterrupt
+KeyboardInterrupt
+KeyboardInterrupt
+KeyboardInterrupt
+KeyboardInterrupt
+KeyboardInterrupt
+KeyboardInterrupt
+Process Process-7:
+Traceback (most recent call last):
+  File "/home/wuhui/anaconda2/lib/python2.7/multiprocessing/process.py", line 258, in _bootstrap
+    self.run()
+  File "/home/wuhui/anaconda2/lib/python2.7/multiprocessing/process.py", line 114, in run
+    self._target(*self._args, **self._kwargs)
+  File "/home/wuhui/anaconda2/lib/python2.7/site-packages/torch/utils/data/dataloader.py", line 40, in _worker_loop
+    samples = collate_fn([dataset[i] for i in batch_indices])
+  File "/home/wuhui/3dcnn/lung-detection-grt-ccesw-wuhui/lung-detection-grt-ccesw1/training/detector1/data.py", line 135, in __getitem__
+    imgs = (imgs.astype(np.float32)-128)/128
+KeyboardInterrupt
+Process Process-10:
+Traceback (most recent call last):
+  File "/home/wuhui/anaconda2/lib/python2.7/multiprocessing/process.py", line 258, in _bootstrap
+    self.run()
+  File "/home/wuhui/anaconda2/lib/python2.7/multiprocessing/process.py", line 114, in run
+    self._target(*self._args, **self._kwargs)
+  File "/home/wuhui/anaconda2/lib/python2.7/site-packages/torch/utils/data/dataloader.py", line 40, in _worker_loop
+    samples = collate_fn([dataset[i] for i in batch_indices])
+  File "/home/wuhui/3dcnn/lung-detection-grt-ccesw-wuhui/lung-detection-grt-ccesw1/training/detector1/data.py", line 135, in __getitem__
+    imgs = (imgs.astype(np.float32)-128)/128
+KeyboardInterrupt
+Process Process-19:
+Traceback (most recent call last):
+  File "/home/wuhui/anaconda2/lib/python2.7/multiprocessing/process.py", line 258, in _bootstrap
+    self.run()
+  File "/home/wuhui/anaconda2/lib/python2.7/multiprocessing/process.py", line 114, in run
+    self._target(*self._args, **self._kwargs)
+  File "/home/wuhui/anaconda2/lib/python2.7/site-packages/torch/utils/data/dataloader.py", line 40, in _worker_loop
+    samples = collate_fn([dataset[i] for i in batch_indices])
+  File "/home/wuhui/3dcnn/lung-detection-grt-ccesw-wuhui/lung-detection-grt-ccesw1/training/detector1/data.py", line 135, in __getitem__
+    imgs = (imgs.astype(np.float32)-128)/128
+KeyboardInterrupt
+Process Process-13:
+Traceback (most recent call last):
+  File "/home/wuhui/anaconda2/lib/python2.7/multiprocessing/process.py", line 258, in _bootstrap
+    self.run()
+  File "/home/wuhui/anaconda2/lib/python2.7/multiprocessing/process.py", line 114, in run
+    self._target(*self._args, **self._kwargs)
+  File "/home/wuhui/anaconda2/lib/python2.7/site-packages/torch/utils/data/dataloader.py", line 40, in _worker_loop
+    samples = collate_fn([dataset[i] for i in batch_indices])
+  File "/home/wuhui/3dcnn/lung-detection-grt-ccesw-wuhui/lung-detection-grt-ccesw1/training/detector1/data.py", line 135, in __getitem__
+    imgs = (imgs.astype(np.float32)-128)/128
+KeyboardInterrupt
+Process Process-16:
+Traceback (most recent call last):
+  File "/home/wuhui/anaconda2/lib/python2.7/multiprocessing/process.py", line 258, in _bootstrap
+    self.run()
+  File "/home/wuhui/anaconda2/lib/python2.7/multiprocessing/process.py", line 114, in run
+    self._target(*self._args, **self._kwargs)
+  File "/home/wuhui/anaconda2/lib/python2.7/site-packages/torch/utils/data/dataloader.py", line 40, in _worker_loop
+    samples = collate_fn([dataset[i] for i in batch_indices])
+  File "/home/wuhui/3dcnn/lung-detection-grt-ccesw-wuhui/lung-detection-grt-ccesw1/training/detector1/data.py", line 135, in __getitem__
+    imgs = (imgs.astype(np.float32)-128)/128
+KeyboardInterrupt
+Process Process-32:
+Traceback (most recent call last):
+  File "/home/wuhui/anaconda2/lib/python2.7/multiprocessing/process.py", line 258, in _bootstrap
+    self.run()
+  File "/home/wuhui/anaconda2/lib/python2.7/multiprocessing/process.py", line 114, in run
+    self._target(*self._args, **self._kwargs)
+  File "/home/wuhui/anaconda2/lib/python2.7/site-packages/torch/utils/data/dataloader.py", line 40, in _worker_loop
+    samples = collate_fn([dataset[i] for i in batch_indices])
+  File "/home/wuhui/3dcnn/lung-detection-grt-ccesw-wuhui/lung-detection-grt-ccesw1/training/detector1/data.py", line 135, in __getitem__
+    imgs = (imgs.astype(np.float32)-128)/128
+KeyboardInterrupt
+Process Process-23:
+Traceback (most recent call last):
+  File "/home/wuhui/anaconda2/lib/python2.7/multiprocessing/process.py", line 258, in _bootstrap
+    self.run()
+  File "/home/wuhui/anaconda2/lib/python2.7/multiprocessing/process.py", line 114, in run
+    self._target(*self._args, **self._kwargs)
+  File "/home/wuhui/anaconda2/lib/python2.7/site-packages/torch/utils/data/dataloader.py", line 40, in _worker_loop
+    samples = collate_fn([dataset[i] for i in batch_indices])
+  File "/home/wuhui/3dcnn/lung-detection-grt-ccesw-wuhui/lung-detection-grt-ccesw1/training/detector1/data.py", line 135, in __getitem__
+    imgs = (imgs.astype(np.float32)-128)/128
+KeyboardInterrupt
+Process Process-17:
+Traceback (most recent call last):
+  File "/home/wuhui/anaconda2/lib/python2.7/multiprocessing/process.py", line 258, in _bootstrap
+    self.run()
+  File "/home/wuhui/anaconda2/lib/python2.7/multiprocessing/process.py", line 114, in run
+    self._target(*self._args, **self._kwargs)
+  File "/home/wuhui/anaconda2/lib/python2.7/site-packages/torch/utils/data/dataloader.py", line 40, in _worker_loop
+    samples = collate_fn([dataset[i] for i in batch_indices])
+  File "/home/wuhui/3dcnn/lung-detection-grt-ccesw-wuhui/lung-detection-grt-ccesw1/training/detector1/data.py", line 135, in __getitem__
+    imgs = (imgs.astype(np.float32)-128)/128
+KeyboardInterrupt
+Process Process-27:
+Traceback (most recent call last):
+  File "/home/wuhui/anaconda2/lib/python2.7/multiprocessing/process.py", line 258, in _bootstrap
+    self.run()
+  File "/home/wuhui/anaconda2/lib/python2.7/multiprocessing/process.py", line 114, in run
+    self._target(*self._args, **self._kwargs)
+  File "/home/wuhui/anaconda2/lib/python2.7/site-packages/torch/utils/data/dataloader.py", line 40, in _worker_loop
+    samples = collate_fn([dataset[i] for i in batch_indices])
+  File "/home/wuhui/3dcnn/lung-detection-grt-ccesw-wuhui/lung-detection-grt-ccesw1/training/detector1/data.py", line 135, in __getitem__
+    imgs = (imgs.astype(np.float32)-128)/128
+KeyboardInterrupt
+using gpu 
+--------------------step 1------------------
+Traceback (most recent call last):
+  File "main.py", line 540, in <module>
+    main()
+  File "main.py", line 139, in main
+    test(test_loader, net, get_pbb, save_dir,config)
+  File "main.py", line 488, in test
+    output = net(input,inputcoord)
+  File "/home/wuhui/anaconda2/lib/python2.7/site-packages/torch/nn/modules/module.py", line 224, in __call__
+    result = self.forward(*input, **kwargs)
+  File "/home/wuhui/anaconda2/lib/python2.7/site-packages/torch/nn/parallel/data_parallel.py", line 58, in forward
+    return self.module(*inputs[0], **kwargs[0])
+  File "/home/wuhui/anaconda2/lib/python2.7/site-packages/torch/nn/modules/module.py", line 224, in __call__
+    result = self.forward(*input, **kwargs)
+  File "/home/wuhui/3dcnn/lung-detection-grt-ccesw-wuhui/lung-detection-grt-ccesw1/training/detector1/res18.py", line 94, in forward
+    out = self.preBlock(x)#16
+  File "/home/wuhui/anaconda2/lib/python2.7/site-packages/torch/nn/modules/module.py", line 224, in __call__
+    result = self.forward(*input, **kwargs)
+  File "/home/wuhui/anaconda2/lib/python2.7/site-packages/torch/nn/modules/container.py", line 67, in forward
+    input = module(input)
+  File "/home/wuhui/anaconda2/lib/python2.7/site-packages/torch/nn/modules/module.py", line 224, in __call__
+    result = self.forward(*input, **kwargs)
+  File "/home/wuhui/anaconda2/lib/python2.7/site-packages/torch/nn/modules/conv.py", line 350, in forward
+    self.padding, self.dilation, self.groups)
+  File "/home/wuhui/anaconda2/lib/python2.7/site-packages/torch/nn/functional.py", line 116, in conv3d
+    return f(input, weight, bias)
+KeyboardInterrupt
+/home/wuhui/3dcnn/lung-detection-grt-ccesw-wuhui/lung-detection-grt-ccesw1/training/detector1/split_combine.py:63: FutureWarning: comparison to `None` will result in an elementwise object comparison in the future.
+  if nzhw==None:
+Terminated
+Process Process-18:
+Process Process-7:
+Process Process-17:
+using gpu 0
+--------------------step 1------------------
+../result-wh/nodnet/2017_09_14/1
+Traceback (most recent call last):
+  File "main.py", line 554, in <module>
+Traceback (most recent call last):
+Traceback (most recent call last):
+Traceback (most recent call last):
+Process Process-16:
+      File "/home/wuhui/anaconda2/lib/python2.7/multiprocessing/process.py", line 258, in _bootstrap
+main()
+  File "main.py", line 144, in main
+Traceback (most recent call last):
+  File "/home/wuhui/anaconda2/lib/python2.7/multiprocessing/process.py", line 258, in _bootstrap
+  File "/home/wuhui/anaconda2/lib/python2.7/multiprocessing/process.py", line 258, in _bootstrap
+    test(test_loader, net, get_pbb, save_dir,config)
+  File "main.py", line 468, in test
+  File "/home/wuhui/anaconda2/lib/python2.7/multiprocessing/process.py", line 258, in _bootstrap
+    for i_name, (data, target, coord, nzhw) in enumerate(data_loader):
+  File "/home/wuhui/anaconda2/lib/python2.7/site-packages/torch/utils/data/dataloader.py", line 195, in __next__
+    idx, batch = self.data_queue.get()
+  File "/home/wuhui/anaconda2/lib/python2.7/multiprocessing/queues.py", line 378, in get
+    self.run()
+  File "/home/wuhui/anaconda2/lib/python2.7/multiprocessing/process.py", line 114, in run
+    self._target(*self._args, **self._kwargs)
+        self.run()
+  File "/home/wuhui/anaconda2/lib/python2.7/site-packages/torch/utils/data/dataloader.py", line 44, in _worker_loop
+return recv()
+  File "/home/wuhui/anaconda2/lib/python2.7/multiprocessing/process.py", line 114, in run
+  File "/home/wuhui/anaconda2/lib/python2.7/site-packages/torch/multiprocessing/queue.py", line 21, in recv
+    buf = self.recv_bytes()
+    self._target(*self._args, **self._kwargs)
+  File "/home/wuhui/anaconda2/lib/python2.7/site-packages/torch/utils/data/dataloader.py", line 44, in _worker_loop
+    self.run()
+    self.run()
+  File "/home/wuhui/anaconda2/lib/python2.7/multiprocessing/process.py", line 114, in run
+KeyboardInterrupt  File "/home/wuhui/anaconda2/lib/python2.7/multiprocessing/process.py", line 114, in run
+
+Process Process-12:
+    self._target(*self._args, **self._kwargs)
+    self._target(*self._args, **self._kwargs)
+    data_queue.put((idx, samples))
+  File "/home/wuhui/anaconda2/lib/python2.7/site-packages/torch/utils/data/dataloader.py", line 44, in _worker_loop
+  File "/home/wuhui/anaconda2/lib/python2.7/site-packages/torch/utils/data/dataloader.py", line 44, in _worker_loop
+  File "/home/wuhui/anaconda2/lib/python2.7/multiprocessing/queues.py", line 390, in put
+    data_queue.put((idx, samples))
+  File "/home/wuhui/anaconda2/lib/python2.7/multiprocessing/queues.py", line 390, in put
+    wacquire()
+    data_queue.put((idx, samples))
+    data_queue.put((idx, samples))
+Process Process-20:
+Process Process-1:
+Process Process-4:
+Process Process-9:
+Process Process-21:
+  File "/home/wuhui/anaconda2/lib/python2.7/multiprocessing/queues.py", line 390, in put
+Process Process-2:
+Process Process-3:
+  File "/home/wuhui/anaconda2/lib/python2.7/multiprocessing/queues.py", line 390, in put
+Process Process-15:
+Process Process-13:
+Process Process-10:
+Process Process-14:
+KeyboardInterrupt
+Traceback (most recent call last):
+  File "/home/wuhui/anaconda2/lib/python2.7/multiprocessing/process.py", line 258, in _bootstrap
+Traceback (most recent call last):
+Traceback (most recent call last):
+Traceback (most recent call last):
+Traceback (most recent call last):
+Traceback (most recent call last):
+    wacquire()
+  File "/home/wuhui/anaconda2/lib/python2.7/multiprocessing/process.py", line 258, in _bootstrap
+  File "/home/wuhui/anaconda2/lib/python2.7/multiprocessing/process.py", line 258, in _bootstrap
+  File "/home/wuhui/anaconda2/lib/python2.7/multiprocessing/process.py", line 258, in _bootstrap
+  File "/home/wuhui/anaconda2/lib/python2.7/multiprocessing/process.py", line 258, in _bootstrap
+    self.run()
+    wacquire()
+KeyboardInterrupt
+  File "/home/wuhui/anaconda2/lib/python2.7/multiprocessing/process.py", line 114, in run
+  File "/home/wuhui/anaconda2/lib/python2.7/multiprocessing/process.py", line 258, in _bootstrap
+    self._target(*self._args, **self._kwargs)
+  File "/home/wuhui/anaconda2/lib/python2.7/site-packages/torch/utils/data/dataloader.py", line 40, in _worker_loop
+Traceback (most recent call last):
+KeyboardInterrupt
+    samples = collate_fn([dataset[i] for i in batch_indices])
+Traceback (most recent call last):
+  File "/home/wuhui/3dcnn/lung-detection-grt-ccesw-wuhui/lung-detection-grt-ccesw1/training/detector1/data.py", line 126, in __getitem__
+  File "/home/wuhui/anaconda2/lib/python2.7/multiprocessing/process.py", line 258, in _bootstrap
+    margin = self.split_comber.margin/self.stride)
+    wacquire()
+  File "/home/wuhui/3dcnn/lung-detection-grt-ccesw-wuhui/lung-detection-grt-ccesw1/training/detector1/split_combine.py", line 37, in split
+  File "/home/wuhui/anaconda2/lib/python2.7/multiprocessing/process.py", line 258, in _bootstrap
+KeyboardInterrupt
+Traceback (most recent call last):
+Process Process-32:
+    data = np.pad(data, pad, 'edge')
+  File "/home/wuhui/anaconda2/lib/python2.7/site-packages/numpy/lib/arraypad.py", line 1294, in pad
+  File "/home/wuhui/anaconda2/lib/python2.7/multiprocessing/process.py", line 258, in _bootstrap
+    self.run()
+  File "/home/wuhui/anaconda2/lib/python2.7/multiprocessing/process.py", line 114, in run
+Traceback (most recent call last):
+    self.run()
+    self._target(*self._args, **self._kwargs)
+  File "/home/wuhui/anaconda2/lib/python2.7/site-packages/torch/utils/data/dataloader.py", line 44, in _worker_loop
+  File "/home/wuhui/anaconda2/lib/python2.7/multiprocessing/process.py", line 114, in run
+    self.run()
+    self._target(*self._args, **self._kwargs)
+  File "/home/wuhui/anaconda2/lib/python2.7/multiprocessing/process.py", line 114, in run
+  File "/home/wuhui/anaconda2/lib/python2.7/multiprocessing/process.py", line 258, in _bootstrap
+  File "/home/wuhui/anaconda2/lib/python2.7/site-packages/torch/utils/data/dataloader.py", line 44, in _worker_loop
+    self._target(*self._args, **self._kwargs)
+  File "/home/wuhui/anaconda2/lib/python2.7/site-packages/torch/utils/data/dataloader.py", line 44, in _worker_loop
+    self.run()
+Traceback (most recent call last):
+  File "/home/wuhui/anaconda2/lib/python2.7/multiprocessing/process.py", line 114, in run
+Traceback (most recent call last):
+    self.run()
+    self.run()
+    self.run()
+    data_queue.put((idx, samples))
+    self._target(*self._args, **self._kwargs)
+  File "/home/wuhui/anaconda2/lib/python2.7/multiprocessing/process.py", line 114, in run
+  File "/home/wuhui/anaconda2/lib/python2.7/multiprocessing/process.py", line 114, in run
+  File "/home/wuhui/anaconda2/lib/python2.7/multiprocessing/process.py", line 114, in run
+  File "/home/wuhui/anaconda2/lib/python2.7/site-packages/torch/utils/data/dataloader.py", line 44, in _worker_loop
+    self._target(*self._args, **self._kwargs)
+    self._target(*self._args, **self._kwargs)
+    self._target(*self._args, **self._kwargs)
+    self.run()
+  File "/home/wuhui/anaconda2/lib/python2.7/site-packages/torch/utils/data/dataloader.py", line 44, in _worker_loop
+  File "/home/wuhui/anaconda2/lib/python2.7/site-packages/torch/utils/data/dataloader.py", line 44, in _worker_loop
+  File "/home/wuhui/anaconda2/lib/python2.7/multiprocessing/process.py", line 258, in _bootstrap
+    data_queue.put((idx, samples))
+  File "/home/wuhui/anaconda2/lib/python2.7/multiprocessing/queues.py", line 390, in put
+    wacquire()
+    narray = np.array(array)
+KeyboardInterrupt
+  File "/home/wuhui/anaconda2/lib/python2.7/site-packages/torch/utils/data/dataloader.py", line 44, in _worker_loop
+    self.run()
+  File "/home/wuhui/anaconda2/lib/python2.7/multiprocessing/process.py", line 114, in run
+    self._target(*self._args, **self._kwargs)
+  File "/home/wuhui/anaconda2/lib/python2.7/site-packages/torch/utils/data/dataloader.py", line 40, in _worker_loop
+KeyboardInterrupt
+    samples = collate_fn([dataset[i] for i in batch_indices])
+  File "/home/wuhui/3dcnn/lung-detection-grt-ccesw-wuhui/lung-detection-grt-ccesw1/training/detector1/data.py", line 128, in __getitem__
+    imgs = (imgs.astype(np.float32)-128)/128
+Process Process-19:
+Process Process-6:
+Traceback (most recent call last):
+KeyboardInterrupt
+  File "/home/wuhui/anaconda2/lib/python2.7/multiprocessing/process.py", line 258, in _bootstrap
+Traceback (most recent call last):
+  File "/home/wuhui/anaconda2/lib/python2.7/multiprocessing/process.py", line 258, in _bootstrap
+    data_queue.put((idx, samples))
+  File "/home/wuhui/anaconda2/lib/python2.7/multiprocessing/queues.py", line 390, in put
+    wacquire()
+    self.run()
+  File "/home/wuhui/anaconda2/lib/python2.7/multiprocessing/process.py", line 114, in run
+Process Process-23:
+    self._target(*self._args, **self._kwargs)
+  File "/home/wuhui/anaconda2/lib/python2.7/site-packages/torch/utils/data/dataloader.py", line 44, in _worker_loop
+KeyboardInterrupt
+Traceback (most recent call last):
+    self.run()
+  File "/home/wuhui/anaconda2/lib/python2.7/multiprocessing/process.py", line 114, in run
+  File "/home/wuhui/anaconda2/lib/python2.7/multiprocessing/process.py", line 258, in _bootstrap
+    self._target(*self._args, **self._kwargs)
+  File "/home/wuhui/anaconda2/lib/python2.7/site-packages/torch/utils/data/dataloader.py", line 44, in _worker_loop
+    data_queue.put((idx, samples))
+    data_queue.put((idx, samples))
+  File "/home/wuhui/anaconda2/lib/python2.7/multiprocessing/queues.py", line 390, in put
+  File "/home/wuhui/anaconda2/lib/python2.7/multiprocessing/queues.py", line 390, in put
+  File "/home/wuhui/anaconda2/lib/python2.7/multiprocessing/queues.py", line 390, in put
+    data_queue.put((idx, samples))
+  File "/home/wuhui/anaconda2/lib/python2.7/multiprocessing/queues.py", line 390, in put
+using gpu 0
+Traceback (most recent call last):
+  File "main.py", line 554, in <module>
+    main()
+  File "main.py", line 105, in main
+    net = net.cuda()
+  File "/home/wuhui/anaconda2/lib/python2.7/site-packages/torch/nn/modules/module.py", line 147, in cuda
+    return self._apply(lambda t: t.cuda(device_id))
+  File "/home/wuhui/anaconda2/lib/python2.7/site-packages/torch/nn/modules/module.py", line 118, in _apply
+    module._apply(fn)
+  File "/home/wuhui/anaconda2/lib/python2.7/site-packages/torch/nn/modules/module.py", line 118, in _apply
+    module._apply(fn)
+  File "/home/wuhui/anaconda2/lib/python2.7/site-packages/torch/nn/modules/module.py", line 124, in _apply
+    param.data = fn(param.data)
+  File "/home/wuhui/anaconda2/lib/python2.7/site-packages/torch/nn/modules/module.py", line 147, in <lambda>
+    return self._apply(lambda t: t.cuda(device_id))
+  File "/home/wuhui/anaconda2/lib/python2.7/site-packages/torch/_utils.py", line 66, in _cuda
+    return new_type(self.size()).copy_(self, async)
+  File "/home/wuhui/anaconda2/lib/python2.7/site-packages/torch/cuda/__init__.py", line 269, in _lazy_new
+    return super(_CudaBase, cls).__new__(cls, *args, **kwargs)
+KeyboardInterrupt

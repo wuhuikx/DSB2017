@@ -1,0 +1,37 @@
+3D CNN implemented by pycaffe on Intel KNL Platform
+
+This is a 3D CNN solution implemented by pycaffe on Intel KNL platform. You are recommended to use caffe optimized with Intel MKLDNN. 
+1, Data Preprocessing
+  (1)	Download the luna dataset
+  (2)	Download this code base to your directory ${ code_base_root },
+                         cd ${code_base_root}
+  (3)	vim data_processing/config_training.py,  
+        set luna dataset path to your dataset, set your preprocessed data dir
+        cd data_processing  &&  python prepare.py
+2, Caffe download and compilation
+  (1)	git clone https://github.com/extendedcaffe/extended-caffe.git
+  (2)	compile caffe according to the instructions on the above git
+
+3, Creating prototxt for training and testing nets
+  (1)	Set PYTHONPATH and LD_LIBRARYPATH
+        export  PYTHONPATH=${caffe_root}/python:$PYTHONPATH
+        export LD_LIBRARY_PATH=${caffe_root}/external/mkldnn/install/lib:$LD_LIBRARY_PATH
+  (2)	create train net
+                 cd  ./models
+                 python create_net.py
+  (3)	create test net
+                 python create_test_net.py
+
+4, Run training and testing process
+  (1)	cd ${code_base_root}  && vim ./run.sh,   
+        To run the training process, uncomment “python train.py” in run.sh; to run testing process, uncomment “python test.py”.
+        ./run.sh
+  (2)	Snapshot of training will be saved in ./snapshot for training,   output data of testing will be saved in ./save
+
+5, Data post-processing
+  (1)	cd ./data_processing
+  (2)	vim generateCSV.py, revise luna_val path as the patient name csv file
+  (3)	python generateCSV.py
+  (4)	python convertToRealWorld.py
+  Then a csv containing the predicted nodules’ coordinate and diameter will be generated. 
+

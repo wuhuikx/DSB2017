@@ -1,0 +1,14 @@
+net: "models/train.prototxt"
+test_iter: 1
+test_interval: 1000000
+test_initialization: true
+base_lr: 0.01
+momentum: 0.9
+weight_decay: 0.0001
+lr_policy: "step"
+stepsize: 20000
+gamma: 0.1
+display: 1
+snapshot: 2000
+snapshot_prefix: "/home/sgf/grt123/3dcnn/lung-nodule-detection-cpu/training/rpn_code/snapshot/"
+type: "SGD"

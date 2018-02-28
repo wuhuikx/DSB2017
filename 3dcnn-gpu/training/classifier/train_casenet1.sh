@@ -1,0 +1,1 @@
+python main.py --model1  net_detector_3 --model2  net_classifier_3 -b 1 -b2 1 --save-dir ../result-wh/casenet/2017_09_04_2 --resume ../result-wh/casenet/2017_09_04_2/net3/039.ckpt --start-epoch 39 --epochs 130
